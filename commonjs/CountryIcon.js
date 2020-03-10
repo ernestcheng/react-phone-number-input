@@ -73,7 +73,7 @@ function createCountryIconComponent(_ref) {
 
 var _default = createCountryIconComponent({
   // Must be equal to `defaultProps.flagUrl` in `./PhoneInputWithCountry.js`.
-  flagUrl: '"https://www.countryflags.io/{XX}/flat/64.png"',
+  flagUrl: "https://www.countryflags.io/{XX}/flat/64.png",
   flagComponent: _Flag["default"],
   internationalIcon: _InternationalIcon["default"]
 });

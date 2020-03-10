@@ -1069,7 +1069,7 @@ PhoneNumberInput.defaultProps = {
    * By default, uses icons from `country-flag-icons` github pages website.
    */
   // Must be equal to `flagUrl` in `./CountryIcon.js`.
-  flagUrl: '"https://www.countryflags.io/{XX}/flat/64.png"',
+  flagUrl: "https://www.countryflags.io/{XX}/flat/64.png",
 
   /**
    * Default "International" country `<select/>` option icon.
